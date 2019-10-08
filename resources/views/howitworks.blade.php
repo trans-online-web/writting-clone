@@ -11,7 +11,7 @@
 
 <br>
     <h1 class="text-center">How to Make an Order With us</h1>
-    <h2 class="font-weight-light text-center">These are the simple steps one can follow to me an order</h2>
+    <h2 class="font-weight-light text-center">These are the simple steps one can follow to make an order</h2>
 
 	       
 

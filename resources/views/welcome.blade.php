@@ -154,20 +154,20 @@
               <div class="col-lg-4">
                 <img class="rounded-circle" src="/images/img5.jpg" alt="Generic placeholder image" width="140" height="140">
                 <h2>Online Writer Chat</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima commodi autem, nam, a iste quia quos quidem provident magnam. Necessitatibus at ducimus odit amet mollitia facilis molestias iste pariatur atque.</p>
-                <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+                <p>Always feel free to communicate with us any time to discuss your order, assignment details, request edits and much more.</p>
+                <!-- <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p> -->
               </div><!-- /.col-lg-4 -->
               <div class="col-lg-4">
                 <img class="rounded-circle" src="/images/img4.PNG" alt="Generic placeholder image" width="140" height="140">
-                <h2>Have the Bargaing Power</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima commodi autem, nam, a iste quia quos quidem provident magnam. Necessitatibus at ducimus odit amet mollitia facilis molestias iste pariatur atque.</p>
-                <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+                <h2>Affordable Prices</h2>
+                <p>We pride ourselves to offering the most affordable prices in the industry.</p>
+                <!-- <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p> -->
               </div><!-- /.col-lg-4 -->
               <div class="col-lg-4">
                 <img class="rounded-circle" src="/images/img6.PNG" alt="Generic placeholder image" width="140" height="140">
                 <h2>Plagiarism Free Papers</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima commodi autem, nam, a iste quia quos quidem provident magnam. Necessitatibus at ducimus odit amet mollitia facilis molestias iste pariatur atque.</p>
-                <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+                <p>We have a very strict plagiarism policy. We always ensure that each paper goes through various plagiarism detection tools.</p>
+                <!-- <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p> -->
               </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->
     
@@ -177,9 +177,9 @@
             <hr class="featurette-divider">
     
             <div class="row featurette">
-              <div class="col-md-7">
-                <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow your mind.</span></h2>
-                <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+              <div class="col-md-7"><br>
+                <h1>Term paper writing services available</h1>
+                <p class="lead">How can we help you? First, our term paper writing help is very affordable for students meaning what we offer is cheap but quality term paper writing. We have tackled different types of paper assignments that have made customers happy, implying we are very confident when it comes to term papers writing. We have worked on research papers and literature review assignments. Not every student can cope with all tasks since they differ mostly in the skills that are required in completing an assignment and, therefore, we provide quality term paper writing.</p>
               </div>
               <div class="col-md-5">
                 <img class="featurette-image img-fluid mx-auto" src="/images/img8.jpg" alt="Generic placeholder image">
@@ -189,9 +189,9 @@
             <hr class="featurette-divider">
     
             <div class="row featurette">
-              <div class="col-md-7 order-md-2">
-                <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-                <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+              <div class="col-md-7 order-md-2"><br>
+                <h2 class="featurette-heading">Do you have time in writing a term paper?</h2>
+                <p class="lead">Obviously, the answer is yes; our work is based on term paper writing service, and we are always here to help you in writing a term paper. Our experts are always ready to receive any amount of work; if you need samples, ask our support team. We can take time to write custom term papers to create the sense that we are ready to work with you. The services are very cheap, and the team delivers quality term paper writing within a short deadline after ordering.</p>
               </div>
               <div class="col-md-5 order-md-1">
                 <img class="featurette-image img-fluid mx-auto" src="/images/img9.jpg" alt="Generic placeholder image">
@@ -202,8 +202,8 @@
     
             <div class="row featurette">
               <div class="col-md-7">
-                <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-                <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+                <!-- <h2 class="featurette-heading">Do you have time in writing a term paper?</h2> --><br><br>
+                <p class="lead">It is very easy to order help from us with your assignment papers on our online term paper writing service portal that’s on our website. You only need to fill an order form and choose whether it is a college term paper writing or university term paper writing or a higher level or even high school term paper writing or school term paper writing specifying the number of pages you want, the level, deadline, and don’t forget special instructions for our experts to note when writing papers term.  </p>
               </div>
               <div class="col-md-5">
                 <img class="featurette-image img-fluid mx-auto" src="/images/img7.jpg" alt="Generic placeholder image">
