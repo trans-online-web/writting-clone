@@ -181,7 +181,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                          with font-awesome or any other icon font library -->
                     <li class="nav-item">
                         <router-link to="/dashboard" class="nav-link">
-                            <i class="nav-icon fas fa-tachometer-alt blue"></i>
+                            <i class="nav-icon fas fa-tachometer-alt green"></i>
                             <p>
                                 Dashboard
                             </p>
@@ -229,7 +229,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                     </li>
                     <li class="nav-item">
                         <router-link to="/MyOrder" class="nav-link">
-                           <i class="fas fa-folder blue"></i>
+                           <i class="fas fa-folder yellow"></i>
                             <p>
                                 MyOrders
                             </p>
