@@ -5,6 +5,7 @@
 <link href="{{asset('link/socicon.css')}}" rel="stylesheet" type="text/css" media="all" />
 <link href="{{asset('link/entypo.css')}}" rel="stylesheet" type="text/css" media="all" />
 <link href="{{asset('link/theme.css')}}" rel="stylesheet" type="text/css" media="all" />
+ <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
 
 <div class="main-container">
 <section class="space-lg bg-gradient">
