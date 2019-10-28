@@ -131,4 +131,5 @@
 <script>
   
 </script>
+@include('includes.footer')
 @endsection
