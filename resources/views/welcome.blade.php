@@ -273,6 +273,96 @@
     
           </div><!-- /.container -->
 
+            <div class="justify-content-center py-3 px-5 bg-custom">
+     <div class="row justify-content-center pb-2">
+        <h1 class="text-light">Making an order is free. Are you ready?</h1>
+    </div>
+    <div class="row justify-content-center container-fluid pt-3">
+       
+        <div class="col-md-4">
+          <div class="center">
+            <a href="/" class="btn btn-bordered-white">Get started on your project</a>
+            <!-- <p class="pt-2 lead2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima commodi autem, nam, a iste quia quos quidem provident magnam. Necessitatibus at ducimus odit amet mollitia facilis molestias iste pariatur atque.</p> -->
+          </div>
+        </div>
+       
+    </div>
+   
+      
+        </div>
+        
+        </div>
+    </div>
+</div>
+
+        <h1 class="featurette px-4 center">Our happy clients</h1>
+          <h2 class="featurette px-4 center">Here's what some satisfied customers have to say</h2>
+
+<div class="testimonials">
+
+  
+     
+
+    <!-- CARD 1 START-->
+    <div class="card">
+    
+      <div class="content">
+        <p>Shreyas is a senior staff information architect at Etsy and specialises in delivering collaborative information architecture processes, as well as teaching those that he works with along the way.</p>
+        <div class="image">
+          <img src="https://www.shareicon.net/data/128x128/2016/03/21/737194_people_512x512.png" alt="">
+        </div>
+        <div class="details">
+          <h2>
+            Someone Famous <br>
+            <span>WRITER</span>            
+          </h2>
+        </div>
+      </div>
+    </div>
+    <!-- CARD 1 end-->
+    
+    <!-- CARD 2 START-->
+    <div class="card">
+      <div class="layer"></div>
+      <div class="content">
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
+          Quis nostrum deleniti nemo repellat. 
+          Id, aliquid necessitatibus perferendis praesentium itaque doloribus molestias quaerat a deleniti distinctio voluptate, 
+          reprehenderit omnis, dolorem ratione.</p>
+        <div class="image">
+          <img src="https://www.shareicon.net/data/128x128/2016/03/21/737194_people_512x512.png" alt="">
+        </div>
+        <div class="details">
+          <h2>
+            Someone Famous 2 <br>
+            <span>WRITER</span>            
+          </h2>
+        </div>
+      </div>
+    </div>
+    <!-- CARD 2 end-->
+    <!-- CARD 3 START-->
+    <div class="card">
+      <div class="layer"></div>
+      <div class="content">
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis nostrum deleniti nemo repellat. 
+          Id, aliquid necessitatibus perferendis praesentium itaque doloribus molestias quaerat a deleniti distinctio voluptate, 
+          reprehenderit omnis, dolorem ratione.</p>
+        <div class="image">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Female_portrait_placeholder_cropped.jpg" alt="">
+        </div>
+        <div class="details">
+          <h2>
+            Someone Famous 3 <br>
+            <span>WRITER</span>            
+          </h2>
+        </div>
+      </div>
+    </div>
+    <!-- CARD 3 end-->
+  </div>
+    
+
              
              @include('includes.footer')
         </div>
