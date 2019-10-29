@@ -20,6 +20,6 @@
   &copy; 2017-<?php echo date("Y"); ?>
 </div>
 <div class=" text-light center">
- support@
+
 </div>
 </footer>
