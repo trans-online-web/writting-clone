@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>My Assignments Experts</title>
+        <title>ResearchExperts</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -16,7 +16,7 @@
         <div>
             <header>
                 <nav class="navbar navbar-expand-md fixed-top font">
-                    <a class="navbar-brand text-light" href="#">My Assignments Experts</a>
+                    <a class="navbar-brand text-light" href="#">ResearchExperts</a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                       <span class="navbar-toggler-icon"></span>
                     </button>
@@ -86,14 +86,14 @@
                                             @endif
                                         @endauth
                                     </li>
-                                </ul>  
+                                </ul>
                               </div>
                           @endif
                       </div> --}}
                     </div>
                   </nav>
             </header>
-            <!---------------- banner section ----------------------> 
+            <!---------------- banner section ---------------------->
 
              <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
@@ -108,7 +108,7 @@
               <div class="carousel-caption text-left">
                 <h1>We Will Help You Do Your Assignments </h1>
                <h2> From initial topic to finished paper</h2>
-                <p><a class="btn btn-lg btn-primary" href="#" role="button">Make an order</a></p>
+                <p><a class="btn btn-lg btn-primary" href="/task" role="button">Make an order</a></p>
               </div>
             </div>
           </div>
@@ -117,7 +117,7 @@
             <div class="container">
               <div class="carousel-caption">
                 <h1>Let us take care of your order details while you enjoy your free time!</h1>
-                
+
                 <p><a class="btn btn-lg btn-primary" href="/register" role="button">Sign Up</a></p>
               </div>
             </div>
@@ -127,7 +127,7 @@
             <div class="container">
               <div class="carousel-caption text-left">
                 <h1>24/7 Customer Support</h1>
-                
+
                 <p><a class="btn btn-lg btn-primary" href="/register" role="button">Sign Up</a></p>
               </div>
             </div>
@@ -223,7 +223,7 @@
         </div>
     </div>
 </div>
-    
+
     <div class="container marketing">
 
             <!-- Three columns of text below the carousel -->
@@ -231,7 +231,7 @@
             <!-- START THE FEATURETTES -->
                <div class="clearfix"></div>
             <hr class="featurette-divider">
-    
+
             <div class="row featurette">
               <div class="col-md-7"><br>
                 <h1>Term paper writing services available</h1>
@@ -241,9 +241,9 @@
                 <img class="featurette-image img-fluid mx-auto" src="/images/img8.jpg" alt="Generic placeholder image">
               </div>
             </div>
-    
+
             <hr class="featurette-divider">
-    
+
             <div class="row featurette">
               <div class="col-md-7 order-md-2"><br>
                 <h2 class="featurette-heading">Do you have time in writing a term paper?</h2>
@@ -253,9 +253,9 @@
                 <img class="featurette-image img-fluid mx-auto" src="/images/img9.jpg" alt="Generic placeholder image">
               </div>
             </div>
-    
+
             <hr class="featurette-divider">
-    
+
             <div class="row featurette">
               <div class="col-md-7">
                 <!-- <h2 class="featurette-heading">Do you have time in writing a term paper?</h2> --><br><br>
@@ -268,9 +268,9 @@
     </div>
   </div>
             <hr class="featurette-divider">
-    
+
             <!-- /END THE FEATURETTES -->
-    
+
           </div><!-- /.container -->
 
             <div class="justify-content-center py-3 px-5 bg-custom">
@@ -278,26 +278,26 @@
         <h1 class="text-light">Making an order is free. Are you ready?</h1>
     </div>
     <div class="row justify-content-center container-fluid pt-3">
-       
+
         <div class="col-md-4">
           <div class="center">
             <a href="/" class="btn btn-bordered-white">Get started on your project</a>
             <!-- <p class="pt-2 lead2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima commodi autem, nam, a iste quia quos quidem provident magnam. Necessitatibus at ducimus odit amet mollitia facilis molestias iste pariatur atque.</p> -->
           </div>
         </div>
-       
+
     </div>
-   
-      
+
+
         </div>
-        
+
         </div>
     </div>
 </div>
 
-    
 
-             
+
+
              @include('includes.footer')
         </div>
         <!-- Scripts -->

@@ -2,8 +2,8 @@
 <footer class="color py-5">
   <div class="col-2 col-md">
     <div class="col-12 col-md">
-      <h4 class="text-light">My Assignments Experts</h4>
-     
+      <h4 class="text-light">ResearchExperts</h4>
+
     </div>
     </div>
 

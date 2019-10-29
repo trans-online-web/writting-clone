@@ -1,5 +1,8 @@
 @extends('layouts.app')
 
 @section('content')
-	<Order></Order>
+    <div id="app">
+        <Order></Order>
+    </div>
+    @include('includes.footer')
 @endsection
