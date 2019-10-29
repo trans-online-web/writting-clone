@@ -25,7 +25,10 @@ class HomeController extends Controller
     {
         return view('home');
     }
-
+    public function order()
+    {
+        return view('myorders');
+    }
     public function task()
     {
         return view('order');
