@@ -2,7 +2,7 @@
 
 @section('content')
 
-
+ <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
 <link href="{{ asset('css/services.css') }}" rel="stylesheet">
 <br>
 <br>
@@ -16,11 +16,11 @@
   <div class="container">
     <div class="row">
       <!-- Free Tier -->
-      <div class="col-lg-4">
+     <div class="col-lg-4">
         <div class="card mb-5 mb-lg-0">
           <div class="card-body">
-            <h5 class="card-title text-case text-uppercase text-center">Services</h5>
-            
+            <h5 class="card-title text-muted text-uppercase text-center">Services</h5>
+           
             <hr>
             <ul class="fa-ul">
               <li><span class="fa-li"><i class="fas fa-check"></i></span>Accounting</li>

@@ -142,6 +142,7 @@
           <span class="sr-only">Next</span>
         </a>
       </div>
+
       <!-- Marketing messaging and featurettes
       ================================================== -->
       <!-- Wrap the rest of the page in another container to center all the content. -->
@@ -170,8 +171,63 @@
                 <!-- <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p> -->
               </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->
+          </div>
+            <div class="justify-content-center py-3 px-5 bg-custom">
+     <div class="row justify-content-center pb-2">
+        <h1 class="text-light">Features</h1>
+    </div>
+    <div class="row justify-content-center container-fluid pt-3">
+        <div class="col-md-4">
+          <div class="card p-3 align-items-center">
+            <img src="./img/contract.svg" style="height: 60px; width: 60px" alt="">
+            <h3 class="class1">Any Deadline - Any Subject</h3>
+            <!-- <p class="pt-2 lead2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima commodi autem, nam, a iste quia quos quidem provident magnam. Necessitatibus at ducimus odit amet mollitia facilis molestias iste pariatur atque.</p> -->
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card p-3 align-items-center">
+            <img src="./img/notification.svg" style="height: 60px; width: 60px" alt="">
+            <h3 class="class2">Email Notifications</h3>
+            <!-- <p class="pt-2 lead2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima commodi autem, nam, a iste quia quos quidem provident magnam. Necessitatibus at ducimus odit amet mollitia facilis molestias iste pariatur atque.</p> -->
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card p-3 align-items-center">
+            <img src="./img/chat.svg" style="height: 60px; width: 60px" alt="">
+            <h3 class="class3">Online Writer Chat</h3>
+            <!-- <p class="pt-2 lead2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima commodi autem, nam, a iste quia quos quidem provident magnam. Necessitatibus at ducimus odit amet mollitia facilis molestias iste pariatur atque.</p> -->
+          </div>
+        </div>
+    </div>
+    <div class="row justify-content-center container-fluid pt-3">
+        <div class="col-md-4">
+          <div class="card p-3 align-items-center">
+            <img src="./img/bargains.svg" style="height: 60px; width: 60px" alt="">
+            <h3 class="class4">Have the Bargaing Power</h3>
+            <!-- <p class="pt-2 lead2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima commodi autem, nam, a iste quia quos quidem provident magnam. Necessitatibus at ducimus odit amet mollitia facilis molestias iste pariatur atque.</p> -->
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card p-3 align-items-center">
+            <img src="./img/file.svg" style="height: 60px; width: 60px" alt="">
+            <h3 class="class5">Plagiarism Free Papers</h3>
+            <!-- <p class="pt-2 lead2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima commodi autem, nam, a iste quia quos quidem provident magnam. Necessitatibus at ducimus odit amet mollitia facilis molestias iste pariatur atque.</p> -->
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card p-3 align-items-center">
+            <img src="./img/coin.svg" style="height: 60px; width: 60px" alt="">
+            <h3 class="class6">Affordable Prices</h3>
+            <!-- <p class="pt-2 lead2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima commodi autem, nam, a iste quia quos quidem provident magnam. Necessitatibus at ducimus odit amet mollitia facilis molestias iste pariatur atque.</p> -->
+         </div>
+        </div>
+    </div>
+</div>
     
-    
+    <div class="container marketing">
+
+            <!-- Three columns of text below the carousel -->
+            <div class="row">
             <!-- START THE FEATURETTES -->
                <div class="clearfix"></div>
             <hr class="featurette-divider">
@@ -209,12 +265,38 @@
                 <img class="featurette-image img-fluid mx-auto" src="/images/img7.jpg" alt="Generic placeholder image">
               </div>
             </div>
-    
+    </div>
+  </div>
             <hr class="featurette-divider">
     
             <!-- /END THE FEATURETTES -->
     
           </div><!-- /.container -->
+
+            <div class="justify-content-center py-3 px-5 bg-custom">
+     <div class="row justify-content-center pb-2">
+        <h1 class="text-light">Making an order is free. Are you ready?</h1>
+    </div>
+    <div class="row justify-content-center container-fluid pt-3">
+       
+        <div class="col-md-4">
+          <div class="center">
+            <a href="/" class="btn btn-bordered-white">Get started on your project</a>
+            <!-- <p class="pt-2 lead2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima commodi autem, nam, a iste quia quos quidem provident magnam. Necessitatibus at ducimus odit amet mollitia facilis molestias iste pariatur atque.</p> -->
+          </div>
+        </div>
+       
+    </div>
+   
+      
+        </div>
+        
+        </div>
+    </div>
+</div>
+
+    
+
              
              @include('includes.footer')
         </div>

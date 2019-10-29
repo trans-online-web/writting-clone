@@ -1,9 +1,18 @@
 @extends('layouts.app')
 
 @section('content')
+<<<<<<< HEAD
 <link href="{{asset('link/socicon.css')}}" media="all" rel="stylesheet" type="text/css"/>
 <link href="{{asset('link/entypo.css')}}" media="all" rel="stylesheet" type="text/css"/>
 <link href="{{asset('link/theme.css')}}" media="all" rel="stylesheet" type="text/css"/>
+=======
+
+<link href="{{asset('link/socicon.css')}}" rel="stylesheet" type="text/css" media="all" />
+<link href="{{asset('link/entypo.css')}}" rel="stylesheet" type="text/css" media="all" />
+<link href="{{asset('link/theme.css')}}" rel="stylesheet" type="text/css" media="all" />
+ <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
+
+>>>>>>> d4b6d0c560fc0cd437ed4213ceffc7005fff5ce3
 <div class="main-container">
     <section class="space-lg bg-gradient">
         <div class="container">
