@@ -6,7 +6,9 @@
      
     </div>
     </div>
-
+<div class=" center">
+<h4 class="text-light">Connect with us</h4>
+</div>
 <div class="wrapper">
    <a target="_blank" href="https://www.facebook.com/TechnologiesTw/"><i class="fa fa-3x fa-facebook-square"></i></a>
    <a target="_blank" href="https://twitter.com/TwTechnologies"><i class="fa fa-3x fa-twitter-square"></i>
@@ -16,5 +18,8 @@
 </div></a>
 <div class=" text-light center">
   &copy; 2017-<?php echo date("Y"); ?>
+</div>
+<div class=" text-light center">
+ support@
 </div>
 </footer>
