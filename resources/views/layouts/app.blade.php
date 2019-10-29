@@ -7,7 +7,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>My Assignments Experts</title>
+    <title>ResearchExperts</title>
 
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
@@ -24,7 +24,7 @@
     <div id="app">
         <header>
             <nav class="navbar navbar-expand-md fixed-top font">
-                <a class="navbar-brand text-light" href="/">My Assignments Experts</a>
+                <a class="navbar-brand text-light" href="/">ResearchExperts</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                   <span class="navbar-toggler-icon"></span>
                 </button>
@@ -87,7 +87,7 @@
                                         @endif
                                     @endauth
                                 </li>
-                            </ul>  --}} 
+                            </ul>  --}}
                           </div>
                       @endif
                   </div>
@@ -145,7 +145,7 @@
             </div>
         </nav>
  --}}
-        
+
         @yield('content')
     </div>
 </body>
