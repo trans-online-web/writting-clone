@@ -405,8 +405,8 @@ body {
 .wrapper {
   display: inline-flex;
   justify-content: center;
-  width: 1500px;
-margin: 0 auto;
+  width: 100%;
+  margin: 0 auto;
 }
 .wrapper i {
   padding: 10px;
