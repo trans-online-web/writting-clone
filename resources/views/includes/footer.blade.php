@@ -9,7 +9,7 @@
 <div class=" center">
 <h4 class="text-light">Connect with us</h4>
 </div>
-<div class="wrapper">
+<div class="foot">
    <a target="_blank" href="https://www.facebook.com/TechnologiesTw/"><i class="fa fa-3x fa-facebook-square"></i></a>
    <a target="_blank" href="https://twitter.com/TwTechnologies"><i class="fa fa-3x fa-twitter-square"></i>
    <a target="_blank" href="https://www.instagram.com/transonlineweb.ke/"><i class="fab fa-3x fa-instagram"></i>
