@@ -45,10 +45,10 @@
                     Why choose our services in writing
                 </h3>
                 <span class="lead">
-                    We understand how to get help in writing term papers can somehow be tough so why not contact us on our website and ask our experts with a sample quote like ‘I need help to write my term paper’ and I do assure you that at the end, you will receive a good term paper writing. 
+                    We understand how to get help in writing term papers can somehow be tough so why not contact us on our website and ask our experts with a sample quote like ‘I need help to write my term paper’ and I do assure you that at the end, you will receive a good term paper writing.
                 </span>
                 <p>
-                    <a class="btn btn-lg btn-primary" href="/login" role="button">
+                    <a class="btn btn-lg btn-primary" href="/register" role="button">
                         Join us
                     </a>
                 </p>
@@ -184,9 +184,9 @@
                             How does ....?
                         </h6>
                         <p align="justify">
-                            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+                            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis
 							natoque penatibus et magnis dis parturient montes,
-							Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+							Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis
 							natoque.
                         </p>
                     </div>
@@ -199,9 +199,9 @@
                             How do i ...?
                         </h6>
                         <p align="justify">
-                            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+                            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis
 													natoque penatibus et magnis dis parturient montes,
-													Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+													Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis
 													natoque.
                         </p>
                     </div>
@@ -227,7 +227,7 @@
                         </h6>
                         <p align="justify">
                             Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
-							Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+							Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis
 							natoque.
                         </p>
                     </div>
@@ -240,9 +240,9 @@
                             Is this site legit?
                         </h6>
                         <p align="justify">
-                            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+                            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis
 							natoque penatibus et magnis dis parturient montes,
-							Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+							Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis
 							natoque.
                         </p>
                     </div>
@@ -255,9 +255,9 @@
                             how will i....?
                         </h6>
                         <p align="justify">
-                            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+                            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis
 																			natoque penatibus et magnis dis parturient montes,
-																			Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+																			Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis
 																			natoque.
                         </p>
                     </div>
