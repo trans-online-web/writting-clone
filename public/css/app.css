@@ -398,40 +398,6 @@ h6, .h6 {
   font-size: 1rem;
 }
 
-
-.foot {
-  display: inline-flex;
-  justify-content: center;
-  width: 1500px;
-margin: 0 auto;
-}
-.foot i {
-  padding: 10px;
-  text-shadow: 0px 6px 8px rgba(0, 0, 0, 0.6);
-  transition: all ease-in-out 150ms;
-}
-.foot a:nth-child(1) {
-  color: #007bff;
-}
-.foot a:nth-child(2) {
-  color: #4867AA;
-}
-.foot a:nth-child(3) {
-  color: #fd7e14;
-}
-.foot a:nth-child(4) {
-  color: #1DA1F2;
-}
-.foot a:nth-child(5) {
-  color: #ffffff;
-}
-
-
-.foot i:hover {
-  margin-top: -3px;
-  text-shadow: 0px 14px 10px rgba(0, 0, 0, 0.4);
-}
-
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
@@ -37341,73 +37307,7 @@ nav {
 }
 
 .bg-custom {
-
-   background-color: #27383e;
-}
-
-
-.class1 {
-    color: #7cccff;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 25px;
-    font-weight: bold;
-    line-height: 1.3;
-}
-.class2 {
-    color: #21d2af;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 25px;
-    font-weight: bold;
-    line-height: 1.3;
-}
-
-.class3 {
-    color: #f0cd6d;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 25px;
-    font-weight: bold;
-    line-height: 1.3;
-}
-
-.class4 {
-    color: #fca832;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 25px;
-    font-weight: bold;
-    line-height: 1.3;
-}
-
-.class5 {
-    color:#f5f90d;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 25px;
-    font-weight: bold;
-    line-height: 1.3;
-}
-
-.class6 {
-    color:#007bff;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 25px;
-    font-weight: bold;
-    line-height: 1.3;
-}
-
-.cta.cta-post-jobs .btn {
-    font-size: 18px;
-    font-weight: bold;
-}
-.btn-bordered-white {
-    background-color: transparent;
-    border: 1px solid rgba(255,255,255,0.5);
-    color: #fff;
-    text-transform: initial;
-   border-color: #ffffff;
-   font-size: 20px;
-    font-weight: bold;
-    transition: 0.3s;
-
-
+  background-color: #ededed;
 }
 
 .masthead {
